@@ -1,6 +1,6 @@
 permalink: /:year:month:day/:title
 url: habibu-r-ahman.github.io
-baseurl: /project
+baseurl: /
 
 # variables
 name: Your Site Name
